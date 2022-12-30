@@ -1,0 +1,15 @@
+C:\Users\gizem\Desktop\c# sayının faktoriyelini bulma\bin\Debug\net7.0\c# sayının faktoriyelini bulma.exe
+C:\Users\gizem\Desktop\c# sayının faktoriyelini bulma\bin\Debug\net7.0\c# sayının faktoriyelini bulma.deps.json
+C:\Users\gizem\Desktop\c# sayının faktoriyelini bulma\bin\Debug\net7.0\c# sayının faktoriyelini bulma.runtimeconfig.json
+C:\Users\gizem\Desktop\c# sayının faktoriyelini bulma\bin\Debug\net7.0\c# sayının faktoriyelini bulma.dll
+C:\Users\gizem\Desktop\c# sayının faktoriyelini bulma\bin\Debug\net7.0\c# sayının faktoriyelini bulma.pdb
+C:\Users\gizem\Desktop\c# sayının faktoriyelini bulma\obj\Debug\net7.0\c# sayının faktoriyelini bulma.csproj.AssemblyReference.cache
+C:\Users\gizem\Desktop\c# sayının faktoriyelini bulma\obj\Debug\net7.0\c# sayının faktoriyelini bulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gizem\Desktop\c# sayının faktoriyelini bulma\obj\Debug\net7.0\c# sayının faktoriyelini bulma.AssemblyInfoInputs.cache
+C:\Users\gizem\Desktop\c# sayının faktoriyelini bulma\obj\Debug\net7.0\c# sayının faktoriyelini bulma.AssemblyInfo.cs
+C:\Users\gizem\Desktop\c# sayının faktoriyelini bulma\obj\Debug\net7.0\c# sayının faktoriyelini bulma.csproj.CoreCompileInputs.cache
+C:\Users\gizem\Desktop\c# sayının faktoriyelini bulma\obj\Debug\net7.0\c# sayının faktoriyelini bulma.dll
+C:\Users\gizem\Desktop\c# sayının faktoriyelini bulma\obj\Debug\net7.0\refint\c# sayının faktoriyelini bulma.dll
+C:\Users\gizem\Desktop\c# sayının faktoriyelini bulma\obj\Debug\net7.0\c# sayının faktoriyelini bulma.pdb
+C:\Users\gizem\Desktop\c# sayının faktoriyelini bulma\obj\Debug\net7.0\c# sayının faktoriyelini bulma.genruntimeconfig.cache
+C:\Users\gizem\Desktop\c# sayının faktoriyelini bulma\obj\Debug\net7.0\ref\c# sayının faktoriyelini bulma.dll
